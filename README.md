@@ -4,7 +4,7 @@
   <p><b>Análise, Edição, Validação e Síntese de Arquivos AFD (Relógios de Ponto)</b></p>
 
   <p>
-    <a href="https://demo.afdmaster.pulz.dev.br">
+    <a href="https://demo-afdmaster.pulz.dev.br">
       <img src="https://img.shields.io/badge/🚀%20Acessar%20Demo-Live%20Preview-22c55e?style=for-the-badge" />
     </a>
   </p>
